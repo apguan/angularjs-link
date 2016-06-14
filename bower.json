@@ -1,0 +1,20 @@
+{
+  "name": "angularjs-link-demo",
+  "description": "how to use link property in angularjs",
+  "main": "index.js",
+  "authors": [
+    "Allen Guan"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.5.6"
+  }
+}

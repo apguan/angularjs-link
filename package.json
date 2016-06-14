@@ -1,0 +1,18 @@
+{
+  "name": "angularjs-link-demo",
+  "version": "1.0.0",
+  "description": "how to use link property in angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "AngularJS-Link-Demo"
+  },
+  "author": "Allen Guan",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
